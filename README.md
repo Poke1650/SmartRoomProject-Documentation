@@ -46,8 +46,7 @@ The smartroom project is a personal project of mine that I started after having 
     * Discord Bot for Cryptocurrency market
 
 ## Planned features
-
-    Currently the only real world interaction SmartRoom has is with the lights, I plan to adding more things it can control (door lock, fans, heating and so on) but also adding more ways to interact with SmartRoom.
+Currently the only real world interaction SmartRoom has is with the lights, I plan to adding more things it can control (door lock, fans, heating and so on) but also adding more ways to interact with SmartRoom.
 
 ### Control
 * 3D Printer interfacing and monitoring (Video and reading from the printer)
