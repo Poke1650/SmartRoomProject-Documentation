@@ -5,9 +5,6 @@ All the documentation about the hardware used in SmartRoom can be found in the [
 ## ChromeDash
 All the documentation about the Chrome add-on for SmartRoom can be found in the [ChromeDash](CHROMEDASH.md) document.
 
-## ChromeDash
-All the documentation about the Chrome add-on for SmartRoom can be found in the [ChromeDash](CHROMEDASH.md) document.
-
 ## Server
 All the documentation about the server and the api.
 
